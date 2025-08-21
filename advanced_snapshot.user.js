@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         GenieATM Snapshot Library (localStorage only)
 // @namespace    serge.scripts
-// @version      1.0
+// @version      0.1
 // @description  Named snapshot CRUD stored in localStorage; native-styled top bar
 // @match        *://*/atm_snapshot*
 // @match        *://*/atm_snapshot.php*

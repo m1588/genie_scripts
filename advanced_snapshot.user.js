@@ -283,3 +283,5 @@
   (async function main() {
     await waitFor(() => $1('#data_source') && $1('#sel_aggs') && $1('#sel_counters'), 10000);
     addTopBar();
+  })();
+})();

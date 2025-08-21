@@ -8,8 +8,8 @@
 // @license      MIT
 // @homepageURL  https://github.com/m1588/genie_sctips
 // @supportURL   https://github.com/m1588/genie_sctips/issues
-// @updateURL    https://raw.githubusercontent.com/m1588/genie_scripts/main/genieatm-snapshot-library.user.js
-// @downloadURL  https://raw.githubusercontent.com/m1588/genie_scripts/main/genieatm-snapshot-library.user.js
+// @updateURL    https://raw.githubusercontent.com/m1588/genie_scripts/main/advanced_snapshot.user.js
+// @downloadURL  https://raw.githubusercontent.com/m1588/genie_scripts/main/advanced_snapshot.user.js
 // @match        *://*/atm_snapshot*
 // @match        *://*/atm_snapshot.php*
 // @run-at       document-idle

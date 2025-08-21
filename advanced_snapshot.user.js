@@ -1,13 +1,21 @@
+
 // ==UserScript==
 // @name         GenieATM Snapshot Library (localStorage only)
-// @namespace    serge.scripts
-// @version      2025-03-26
-// @description  Adds a native-styled Snapshot Library to GenieATM’s Snapshot page:
+// @namespace    https://github.com/m1588/genie_sctips
+// @version      2025-08-21
+// @description  Adds a native-styled Snapshot Library to GenieATM Snapshot page: Save/Load/Update/Delete/Export/Import presets in localStorage.
+// @author       Siarhei Matashuk
+// @license      MIT
+// @homepageURL  https://github.com/m1588/genie_sctips
+// @supportURL   https://github.com/m1588/genie_sctips/issues
+// @updateURL    https://raw.githubusercontent.com/m1588/genie_scripts/main/genieatm-snapshot-library.user.js
+// @downloadURL  https://raw.githubusercontent.com/m1588/genie_scripts/main/genieatm-snapshot-library.user.js
 // @match        *://*/atm_snapshot*
 // @match        *://*/atm_snapshot.php*
 // @run-at       document-idle
+// @noframes
+// @grant        none
 // ==/UserScript==
-
 (function () {
   'use strict';
 

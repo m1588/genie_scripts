@@ -1,8 +1,8 @@
 
 // ==UserScript==
-// @name         GenieATM Snapshot Library (localStorage only)
+// @name         GenieATM Advanced Snapshot
 // @namespace    https://github.com/m1588/genie_sctips
-// @version      2025-08-21
+// @version      2025-08-21_1
 // @description  Adds a native-styled Snapshot Library to GenieATM Snapshot page: Save/Load/Update/Delete/Export/Import presets in localStorage.
 // @author       Siarhei Matashuk
 // @license      MIT
